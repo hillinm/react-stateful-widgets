@@ -38,7 +38,7 @@ import React, { useState } from 'react';
 
 export default function Input() {
   
-  const [inputValue, setInputValue] = useState("")
+  const [inputValue, setInputValue] = useState("");
 
   const changeInput = evt => {
     // When the input changes, its whole value can be found inside the event object.
