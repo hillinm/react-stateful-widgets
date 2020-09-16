@@ -1,0 +1,10 @@
+
+  #container {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: crimson;
+    font-family: sans-serif;
+    margin: 0 35% 0 35%;
+    border: 5px solid black;
+  }
